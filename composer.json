@@ -1,5 +1,5 @@
 {
-    "name": "jarkko-hautakorpi/laravel-visual-diff",
+    "name": "cdbessig/laravel-visual-diff",
     "description": "Create visual diffs in your application tests.",
     "keywords": [
         "beyondcode",
