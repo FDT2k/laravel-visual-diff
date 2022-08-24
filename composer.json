@@ -1,5 +1,5 @@
 {
-    "name": "cdbessig/laravel-visual-diff",
+    "name": "kda/laravel-visual-diff",
     "description": "Create visual diffs in your application tests.",
     "keywords": [
         "beyondcode",
