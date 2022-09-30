@@ -21,7 +21,7 @@ class DuskVisualDiffTester extends VisualDiffTester
         $filename = str_replace('.png', '', $this->getFilename());
 
         $this->browser
-            ->resize($this->currentResolution['width'], $this->currentResolution['height'])
+            //->resize($this->currentResolution['width'], $this->currentResolution['height'])
             ->screenshot($filename);
     }
 
